@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# Portfolio.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio project built using ReactJS with a dynamic dark mode toggle feature.
 
-## Available Scripts
+## Introduction
 
-In the project directory, you can run:
+![image](https://github.com/divyan7982/portfolio1/assets/131895243/b459a491-70cf-4d71-85e2-cae20256397d)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project showcases my skills, projects, and achievements through an interactive portfolio website. The standout feature of this portfolio is the dark mode toggle, providing a seamless user experience in both light and dark environments.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+![image](https://github.com/divyan7982/portfolio1/assets/131895243/ffc79ef5-04d9-4e79-b468-b179a168034f)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Dark Mode Toggle:** Switch between light and dark modes to suit your preference and reduce eye strain during different times of the day.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Interactive Design:** Enjoy a user-friendly interface with smooth transitions and animations, enhancing the overall browsing experience.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Project Showcase:** Explore a diverse collection of my projects, complete with detailed descriptions, images, and links to their respective repositories or live demos.
 
-### `npm run eject`
+- **Skills Highlight:** Browse through my skillset and proficiency levels in various technologies, programming languages, and frameworks.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Usage
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Once the development server is running, open your web browser and visit `http://localhost:3000` to view the portfolio.
+2. Use the toggle switch to switch between light and dark modes.
+3. Explore the various sections, including projects, skills, and contact information.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for visiting my portfolio project. I hope you enjoy exploring my work and learning more about me!
